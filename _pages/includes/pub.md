@@ -1,7 +1,7 @@
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='Dmmm1997.github.io/images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `TPAMI 2025`  Improving Generalized Visual Grounding with Instance-aware Joint Learning \\
