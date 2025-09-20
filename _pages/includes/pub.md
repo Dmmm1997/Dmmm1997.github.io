@@ -9,7 +9,7 @@
 
 [**Paper**](https://ieeexplore.ieee.org/document/11153716)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/InstanceVG?style=social)](https://github.com/Dmmm1997/InstanceVG)
-
+ | [**中文解读**](https://zhuanlan.zhihu.com/p/1951971188877275922)
 </div>
 </div>
 
