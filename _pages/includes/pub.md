@@ -38,7 +38,7 @@
 `ICCV 2025` DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy \\
 **Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Sen Yang, Wenxiao Cai, Yanpeng Sun, Wankou Yang
 
-[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e9fa6e716940a7cfc60c46e6f702f52-Paper-Conference.pdf)
+[**Paper**](https://arxiv.org/abs/2507.01738)
  | [**Code** ![img](https://img.shields.io/github/stars/Dmmm1997/DeRIS?style=social)](https://github.com/Dmmm1997/DeRIS)
  
 </div>
