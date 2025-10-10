@@ -1,5 +1,18 @@
 # 📝 Publications
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`TPAMI 2025`  Improving Generalized Visual Grounding with Instance-aware Joint Learning \\
+**Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Lingfeng Yang, Zhenhua Feng, Wankou Yang, Jingdong Wang
+
+[**Paper**](https://ieeexplore.ieee.org/document/11153716)
+ | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/InstanceVG?style=social)](https://github.com/Dmmm1997/InstanceVG)
+ | [**中文解读**](https://zhuanlan.zhihu.com/p/1951971188877275922)
+</div>
+</div>
+
 <!---------------------------------------------------------------------------------------------->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-PropVG/framework.jpg' alt="sym" width="100%"></div></div>
@@ -8,8 +21,9 @@
 `ICCV 2025`  PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination \\
 **Ming Dai**, Wenxuan Cheng, Jiedong Zhuang, Jiang-jiang Liu, Hongshen Zhao, Zhenhua Feng, Wankou Yang
 
-[**Paper**]()
+[**Paper**](https://arxiv.org/abs/2509.04833)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/PropVG?style=social)](https://github.com/Dmmm1997/PropVG)
+ | [**中文解读**](https://zhuanlan.zhihu.com/p/1948344988695007969)
 
 </div>
 </div>
@@ -24,9 +38,9 @@
 `ICCV 2025` DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy \\
 **Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Sen Yang, Wenxiao Cai, Yanpeng Sun, Wankou Yang
 
-[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e9fa6e716940a7cfc60c46e6f702f52-Paper-Conference.pdf)
+[**Paper**](https://arxiv.org/abs/2507.01738)
  | [**Code** ![img](https://img.shields.io/github/stars/Dmmm1997/DeRIS?style=social)](https://github.com/Dmmm1997/DeRIS)
-
+ 
 </div>
 </div>
 
