@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="Video-Language Understanding, Referring Video Object Segmentation, Large Language Models">
+  <meta name="description" content="MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding">
+
+  <title>MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding</title>
+
+  <!-- Fonts & Styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/nunito@5.0.18/index.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="vendor/image-zoom.css">
+  <link rel="icon" href="assets/icon.png">
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif;
+      color: #2c2c2c;
+      background-color: #fafafa;
+    }
+
+    .hero {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    .publication-title {
+      font-size: 2.3rem;
+      font-weight: 800;
+      margin-bottom: 1.5rem;
+    }
+
+    .publication-author a {
+      color: #3273dc;
+      text-decoration: none;
+    }
+
+    .publication-links .button {
+      margin: 0.3rem;
+      transition: all 0.3s ease;
+    }
+
+    .publication-links .button:hover {
+      transform: translateY(-3px);
+      background-color: #363636 !important;
+    }
+
+    .section {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    .content p {
+      line-height: 1.8;
+      font-size: 1.05rem;
+    }
+
+    video {
+      display: block;
+      margin: 2rem auto;
+      border-radius: 12px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    img {
+      border-radius: 10px;
+      margin: 1rem 0;
+    }
+
+    .vis-caption {
+      font-style: italic;
+      color: #666;
+      margin-bottom: 2rem;
+    }
+
+    pre {
+      background: #f4f4f4;
+      padding: 1rem;
+      border-radius: 10px;
+      overflow-x: auto;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      background: #f0f0f0;
+      padding: 2rem 0;
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .navbar {
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+    }
+
+    .navbar-item {
+      font-weight: 600;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navigation
+  <nav class="navbar is-light is-fixed-top" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <strong>MomentSeg</strong>
+      </a>
+    </div>
+    <div class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="#abstract">Abstract</a>
+        <a class="navbar-item" href="#visualizations">Visualizations</a>
+        <a class="navbar-item" href="#citation">Citation</a>
+      </div>
+    </div>
+  </nav> -->
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container is-max-desktop has-text-centered">
+      <h1 class="title publication-title">MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding</h1>
+
+      <div class="is-size-5 publication-author">
+        <a href="https://dmmm1997.github.io/" target="_blank">Ming Dai</a><sup>1</sup>,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=z5O3DLcAAAAJ" target="_blank">Sen Yang</a><sup>2</sup>,
+        <a href="#">Boqiang Duan</a><sup>2</sup>,
+        <a href="https://automation.seu.edu.cn/ywk/list.htm" target="_blank">Wankou Yang</a><sup>1</sup>,
+        <a href="https://jingdongwang2017.github.io/" target="_blank">Jingdong Wang</a><sup>2</sup>
+      </div>
+
+      <p class="is-size-6 mt-2">
+        <sup>1</sup>Southeast University &nbsp;&nbsp; <sup>2</sup>Baidu VIS
+      </p>
+
+      <div class="publication-links mt-4">
+        <a class="button is-dark is-rounded" href="#" target="_blank">
+          <i class="far fa-paper-plane"></i>&nbsp;Paper
+        </a>
+        <a class="button is-dark is-rounded" href="https://github.com/Dmmm1997/MomentSeg" target="_blank">
+          <i class="fa-brands fa-github"></i>&nbsp;Code
+        </a>
+        <a class="button is-dark is-rounded" href="https://github.com/Dmmm1997/MomentSeg" target="_blank">
+          <i class="fa-regular fa-lightbulb"></i>&nbsp;Demo
+        </a>
+        <a class="button is-dark is-rounded" href="https://github.com/Dmmm1997/MomentSeg" target="_blank">
+          <i class="fa-regular fa-hourglass-half"></i>&nbsp;Dataset
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Video Section -->
+  <div class="container is-max-desktop">
+    <video controls width="100%">
+      <source src="figures/demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <img src="figures/demo_1.gif" alt="Demo 1" style="max-width: 48%;">
+      <img src="figures/demo_2.gif" alt="Demo 2" style="max-width: 48%;">
+    </div>
+  </div>
+
+  <!-- Abstract -->
+  <section id="abstract" class="section">
+    <div class="container is-max-desktop has-text-centered">
+      <h2 class="title is-3">Abstract</h2>
+      <div class="content has-text-justified">
+        <p>
+          Referring Video Object Segmentation (RefVOS) aims to segment target objects in videos guided by natural language descriptions, a task demanding both temporal reasoning and fine-grained visual comprehension. Existing LLM-based approaches rely on sampling strategies that either use handcrafted heuristics, which often overlook essential temporal cues, or external keyframe models, which increase system complexity. To address this, we propose a unified framework that jointly optimizes Temporal Sentence Grounding (TSG) and RefVOS, naturally incorporating key moment grounding capability. 
+        </p>
+        <p>
+          During training, we introduce a novel TSG paradigm employing a dedicated [FIND] token for key moment identification through temporal token similarity matching, avoiding external timestamp encodings. For inference, we design a Moment-Centric Sampling (MCS) strategy that densely samples informative moments while sparsely sampling non-essential frames, preserving motion details and global context. To further enhance tracking stability, we develop Bidirectional Anchor-updated Propagation (BAP), leveraging the most relevant moment as a start point for mask initialization and dynamically updating at sampled points to mitigate accumulated errors.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="has-text-centered">
+    <img src="figures/teaser.jpg" alt="Teaser" width="70%">
+  </div>
+
+  <!-- Visualizations -->
+  <section id="visualizations" class="section">
+    <div class="container is-max-desktop has-text-centered">
+      <h2 class="title is-3">Visualizations</h2>
+
+      <img src="figures/referring_visualization.jpg" alt="RefVOS Visualization" style="width:86%;">
+      <p class="vis-caption">Referring Video Object Segmentation</p>
+
+      <img src="figures/reasoning_visualization.jpg" alt="Reasoning Visualization" style="width:86%;">
+      <p class="vis-caption">Reasoning Video Object Segmentation</p>
+    </div>
+  </section>
+
+<!-- Citation -->
+<section id="citation" class="section">
+  <div class="container is-max-desktop">
+    <h3 class="title is-3 has-text-centered">Citation</h3>
+    <p class="caption">Please cite our paper if you find this project helpful:</p>
+    <pre><code>
+    </code></pre>
+  </div>
+</section>
+
+
+  <!-- <script async src="vendor/image-zoom.js"></script> -->
+
+</body>
+</html>
