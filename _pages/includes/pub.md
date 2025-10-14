@@ -1,6 +1,21 @@
 # 📝 Publications
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`Arxiv 2025`  MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding \\
+**Ming Dai**, Sen Yang, Boqiang Duan, Wankou Yang, Jingdong Wang
+
+[**Paper**](https://arxiv.org/abs/2510.09274)
+ | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/MomentSeg?style=social)](https://github.com/Dmmm1997/MomentSeg)
+ | [**Project**](https://dmmm1997.github.io/momentseg/)
+</div>
+</div>
+
+<!---------------------------------------------------------------------------------------------->
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
