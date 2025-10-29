@@ -10,9 +10,9 @@
 - *2017.09* 1st Prize (East China Division) and 2nd Prize (National Division), Siemens Cup China Intelligent Manufacturing Challenge, Team Leader
 
 **Scholarships and Honors**
-
-- Graduate National Scholarship
-- Zhejiang Provincial Government Scholarship
-- Outstanding Graduate of Zhejiang Province
-- Outstanding Undergraduate Graduate of China Jiliang University
-- Holder of One National Invention Patent
+- *2025* National Scholarship for Doctoral Students
+- *2025* Advanced Academic Individual, Southeast University
+- *2022* National Scholarship for Graduate Students
+- *2020* Outstanding Graduate of Zhejiang Province
+- *2020* Outstanding Undergraduate Graduate of China Jiliang University
+- *2018* Zhejiang Provincial Government Scholarship
