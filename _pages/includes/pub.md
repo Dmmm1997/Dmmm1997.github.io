@@ -35,7 +35,7 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/InstanceVG?style=social)](https://github.com/Dmmm1997/InstanceVG)
  | [**中文解读**](https://zhuanlan.zhihu.com/p/1951971188877275922)
 
- > **Highlights**: **InstanceVG** supports **instance-level** referring segmentation across general scenarios (no/single/multiple targets). It also provides consistent prediction across `point`, `box`, and `mask` inputs.
+ > **Highlights**: **InstanceVG** supports **instance-level** referring segmentation across general scenarios (no/single/multiple targets). It also provides consistent prediction across `point`, `box`, and `mask`.
 </div>
 </div>
 
