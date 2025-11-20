@@ -108,7 +108,7 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
 
 > **Highlights**: **SimVG** explores the importance of **multi-modal understanding** for the VG task, proposing a **simple** yet effective framework. It also adopts a **synchronized distillation** learning strategy between the teacher and student branches, enhancing the performance of the student branch.
 </div>
-
+</div>
 
 ## Cross-View Geo-Localization
 
