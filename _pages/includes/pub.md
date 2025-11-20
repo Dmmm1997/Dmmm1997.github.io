@@ -1,6 +1,6 @@
 # 📝 Publications
 
-## Referring Video Object Segmentation (RefVOS)
+## Research Direction 1: Referring Video Object Segmentation (RefVOS)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
@@ -23,7 +23,7 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
 <!---------------------------------------------------------------------------------------------->
 
 
-## Visual Grounding (REC, RES, GREC, GRES)
+## Research Direction 2: Visual Grounding (REC, RES, GREC, GRES)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,7 +36,6 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
  | [**中文解读**](https://zhuanlan.zhihu.com/p/1951971188877275922)
 
  > **Highlights**: **InstanceVG** supports **instance-level** referring segmentation across general scenarios (no/single/multiple targets). It also provides consistent prediction across `point`, `box`, and `mask` inputs.
-
 </div>
 </div>
 
@@ -53,7 +52,6 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
  | [**中文解读**](https://zhuanlan.zhihu.com/p/1948344988695007969)
 
  > **Highlights**: **PropVG** achieves **end-to-end two-stage** visual grounding, overcoming the traditional drawbacks of previous two-stage approaches that *relied on external detectors* and were often associated with *slow inference and limited performance*.
-
 </div>
 </div>
 
@@ -88,7 +86,6 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/C3VG?style=social)](https://github.com/Dmmm1997/C3VG)
 
 > **Highlights**: **C3VG** investigates the **consistency** prediction problem in REC and RIS, introducing a **coarse-to-fine** architecture that enforces consistency through both `implicit` and `explicit` constraints.
-
 </div>
 </div>
 
@@ -110,7 +107,7 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
 </div>
 </div>
 
-## Cross-View Geo-Localization
+## Research Direction 3: Cross-View Geo-Localization
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/publications/Arxiv-DRL/main.jpg' alt="sym" width="100%"></div></div>
@@ -124,7 +121,6 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
 | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/DRL?style=social)](https://github.com/Dmmm1997/DRL)
 
 > **Highlights**: **DRL** adopts an **end-to-end** training and inference paradigm to address common issues in image-retrieval-based UAV self-localization, including *complex preprocessing*, *inherent localization errors*, and *slow inference*.
-
 </div>
 </div>
 
@@ -141,8 +137,6 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
 | [**中文解读**](https://zhuanlan.zhihu.com/p/673051338)
 
 > **Highlights**: **DenseUAV** introduces a **real-world** sampled dataset for vision-based UAV self-localization and provides a comprehensive benchmark for the task.
-
-
 </div>
 </div>
 
@@ -159,7 +153,6 @@ In addition, we introduce a novel `[FIND]` token, which allows the model to perf
 
 
 > **Highlights**: **FSRA** is the *first* successful application of Transformer models to cross-view geo-localization. It introduces an attention-map-based region partitioning and alignment strategy that alleviates performance degradation caused by viewpoint shifts.
-
 </div>
 </div>
 
