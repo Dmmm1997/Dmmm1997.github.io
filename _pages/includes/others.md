@@ -7,8 +7,8 @@
 # 💻 Internships
 
 - *2024.12 – present* Baidu, LMMs Research, Shanghai, China
-- *2022.11 – 2023.05* NIO, Autonomous Driving – Perception (Vision), Beijing, China
-- *2022.03 – 2022.08* ByteDance, E-commerce – Algorithm (Knowledge Graph), Hangzhou, China
+- *2022.11 – 2023.05* NIO, Autonomous Driving – Algorithm, Beijing, China
+- *2022.03 – 2022.08* ByteDance, E-commerce – Algorithm  Hangzhou, China
 
 # 💬 Services
 
