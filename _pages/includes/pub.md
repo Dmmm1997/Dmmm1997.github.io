@@ -74,6 +74,21 @@
 </div>
 </div>
 
+<!---------------------------------------------------------------------------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVT2025-GC3VG/gc3vg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`TCSVT 2025` GC3VG: Generalized Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints \\
+**Ming Dai**, Kai Chen, Wenxuan Cheng, Jiedong Zhuang, Zhenhua Feng, Pengfei Zhu, Wankou Yang
+
+[**Paper**](https://ieeexplore.ieee.org/document/11245514)
+
+> **Highlights**: **GC3VG** generalizes the **C3VG** architecture and incorporates `UCRM`, which implicitly captures region/instance features and explicitly aligns them via an IoU-based relational constraint. The `GHA` strategy ensures feature-space consistency and boosts the discriminative strength of multi-modal representations.
+
+</div>
+</div>
+
 
 <!---------------------------------------------------------------------------------------------->
 
