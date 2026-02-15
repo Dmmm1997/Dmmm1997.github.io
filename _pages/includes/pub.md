@@ -113,7 +113,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/publications/Arxiv-DRL/main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`Arxiv 2024` Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization \\
+`PR 2024` Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization \\
 **Ming Dai**, Enhui Zheng, Jiahao Chen, Lei Qi, Zhenhua Feng, Wankou Yang
 
 [**Paper**](https://arxiv.org/pdf/2208.06561)

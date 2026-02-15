@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.02*: 🎉 One first-author paper has been accepted to PR 2026.
 - *2025.11*: 🎉 One first-author paper has been accepted to TCSVT 2025.
 - *2025.09*: 🎉 One first-author paper has been accepted to TPAMI 2025.
 - *2025.07*: 🎉 Two first-author paper has been accepted to ICCV 2025.
