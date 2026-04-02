@@ -6,6 +6,7 @@
 
 # 💻 Internships
 
+- 2026.03 – current Ant Group, Agent Research, Hangzhou, China
 - *2024.12 – 2026.02* Baidu, LMMs Research, Shanghai, China
 - *2022.11 – 2023.05* NIO, Autonomous Driving – Algorithm, Beijing, China
 - *2022.03 – 2022.08* ByteDance, E-commerce – Algorithm  Hangzhou, China
@@ -14,7 +15,7 @@
 
 **Reviewers**
 
-- TNNLS, TCSVT, ISPRS, PR
+- TIP, TNNLS, TCSVT, ISPRS, PR
 - NeurIPS2025, CVPR2025, ICCV2025, AAAI2026, ICLR2026, CVPR2026, ICML2026, ECCV2026
 
 **Leadership**
