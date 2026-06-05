@@ -1,6 +1,38 @@
 # 📝 Publications
 
-## Research Direction 1: Referring Video Object Segmentation (RefVOS)
+## Research Direction 1: Referring/Reasoning Video Object Segmentation (RVOS)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`ICML 2026` VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation \\
+**Ming Dai**, Sen Yang, Boqiang Duan, Boyuan Tong, Jiedong Zhuang, Wankou Yang, Jingdong Wang
+
+[**Paper**](https://github.com/Dmmm1997/VideoSEG-O3/blob/main/docs/videoseg-o3.pdf)
+ | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/VideoSEG-O3?style=social)](https://github.com/Dmmm1997/VideoSEG-O3)
+
+> **Highlights**: **VideoSEG-O3** is the first **multi-turn RL** framework for RVOS, actively exploring temporal intervals and keyframes through temporal-spatial CoT instead of relying on fixed sampled frames.
+> It further introduces **SEG-aware logit calibration** and a decoupled thinking trace, aligning token-level policy optimization with pixel-level mask quality.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`CVPR 2026` DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation \\
+Wenxuan Cheng*, **Ming Dai***, Huimin Lu, Wankou Yang
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf)
+
+> **Highlights**: **DeRVOS** decouples **consistent trajectory generation** and **multimodal understanding**, reducing RVOS to matching referring expressions with instance trajectories.
+> Its `TAIS` module performs cross-frame multimodal alignment and motion-guided implicit trajectory selection, improving robustness in occlusion, fast motion, and action-relation scenarios.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -17,7 +49,6 @@
 
 </div>
 </div>
-
 
 
 <!---------------------------------------------------------------------------------------------->
@@ -73,6 +104,7 @@
 
 </div>
 </div>
+
 
 <!---------------------------------------------------------------------------------------------->
 
