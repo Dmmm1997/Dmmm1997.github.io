@@ -2,7 +2,7 @@
 
 ## Research Direction 1: Referring/Reasoning Video Object Segmentation (RVOS)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `ICML 2026` VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation \\
