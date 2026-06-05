@@ -11,7 +11,7 @@
 [**Paper**](https://github.com/Dmmm1997/VideoSEG-O3/blob/main/docs/videoseg-o3.pdf)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/VideoSEG-O3?style=social)](https://github.com/Dmmm1997/VideoSEG-O3)
 
-> **Highlights**: **VideoSEG-O3** is the first **multi-turn RL** framework for RVOS, actively exploring temporal intervals and keyframes through temporal-spatial CoT instead of relying on fixed sampled frames.
+> **Highlights**: **VideoSEG-O3** is a **multi-turn RL** framework for RVOS, actively exploring temporal intervals and keyframes through temporal-spatial CoT instead of relying on fixed sampled frames.
 > It further introduces **SEG-aware logit calibration** and a decoupled thinking trace, aligning token-level policy optimization with pixel-level mask quality.
 
 </div>
