@@ -23,12 +23,11 @@
 <div class='paper-box-text' markdown="1">
 
 `CVPR 2026` DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation \\
-Wenxuan Cheng*, **Ming Dai***, Huimin Lu, Wankou Yang
+Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf)
 
-> **Highlights**: **DeRVOS** decouples **consistent trajectory generation** and **multimodal understanding**, reducing RVOS to matching referring expressions with instance trajectories.
-> Its `TAIS` module performs cross-frame multimodal alignment and motion-guided implicit trajectory selection, improving robustness in occlusion, fast motion, and action-relation scenarios.
+> **Highlights**: **DeRVOS** decouples **trajectory generation** and **multimodal understanding**, with `TAIS` aligning and selecting instance trajectories for robust RVOS.
 
 </div>
 </div>
