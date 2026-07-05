@@ -107,3 +107,101 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.paper-links-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .4em 1em;
+    margin-top: .5em;
+}
+
+.paper-links {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.paper-links p {
+    margin: 0;
+}
+
+.paper-highlights {
+    flex: 0 0 auto;
+    margin-left: auto;
+}
+
+.paper-highlights[open] {
+    flex-basis: 100%;
+    margin-left: 0;
+    text-align: right;
+}
+
+.paper-highlights summary {
+    display: inline-flex;
+    align-items: center;
+    padding: .15em .55em;
+    color: #224b8d;
+    border: 1px solid #bdc1c4;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: .9em;
+    font-weight: bold;
+    line-height: 1.4;
+    user-select: none;
+}
+
+.paper-highlights summary::-webkit-details-marker {
+    display: none;
+}
+
+.paper-highlights summary:before {
+    content: "+";
+    margin-right: .35em;
+}
+
+.paper-highlights[open] summary:before {
+    content: "-";
+}
+
+.paper-highlights-content {
+    margin-top: .75em;
+    padding-left: 1em;
+    border-left: .25em solid #e6ebf3;
+    text-align: left;
+}
+
+.paper-highlights-content blockquote {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.internship-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.internship-list li {
+    display: grid;
+    grid-template-columns: 2.4rem minmax(0, 1fr);
+    column-gap: .65rem;
+    align-items: center;
+    margin-bottom: .5em;
+}
+
+.internship-logo-frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.4rem;
+    height: 1.8rem;
+}
+
+.internship-logo-frame img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 2.2rem;
+    max-height: 1.45rem;
+    object-fit: contain;
+    box-shadow: none;
+}
