@@ -6,10 +6,10 @@
 
 # 💻 Internships
 
-- 2026.03 – current Ant Group, Agent Research, Hangzhou, China
-- *2024.12 – 2026.02* Baidu, LMMs Research, Shanghai, China
-- *2022.11 – 2023.05* NIO, Autonomous Driving – Algorithm, Beijing, China
-- *2022.03 – 2022.08* ByteDance, E-commerce – Algorithm  Hangzhou, China
+- <img class="internship-logo" src="images/logos/antgroup.png" alt="Ant Group logo"> 2026.03 – current Ant Group, Agent Research, Hangzhou, China
+- <img class="internship-logo" src="images/logos/baidu.png" alt="Baidu logo"> *2024.12 – 2026.02* Baidu, LMMs Research, Shanghai, China
+- <img class="internship-logo" src="images/logos/nio.png" alt="NIO logo"> *2022.11 – 2023.05* NIO, Autonomous Driving – Algorithm, Beijing, China
+- <img class="internship-logo" src="images/logos/bytedance.png" alt="ByteDance logo"> *2022.03 – 2022.08* ByteDance, E-commerce – Algorithm, Hangzhou, China
 
 # 💬 Services
 

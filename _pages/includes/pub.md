@@ -1,6 +1,26 @@
 # 📝 Publications
 
-## Research Direction 1: Referring/Reasoning Video Object Segmentation (RVOS)
+## Research Direction 1: Multimodal Agentic Search
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/Arxiv-SimpleSearch-VL/simplesearch-vl.png' alt="SimpleSearch-VL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`arXiv 2026` SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search \\
+**Ming Dai**, Zhihong Lu, Jinjie Gu, Jiedong Zhuang, Yefeng Liu, Wankou Yang, Jian Wang, Chunhua Shen
+
+[**Paper**](https://arxiv.org/abs/2606.31504)
+ | [**Code** ![](https://img.shields.io/github/stars/AQ-MedAI/SimpleSearch-VL?style=social)](https://github.com/AQ-MedAI/SimpleSearch-VL)
+
+> **Highlights**: **SimpleSearch-VL** is an efficient, reliable, and practical framework for **multimodal agentic deep search**.
+> It improves the agent's search-and-verification process with **Factorized Adaptive Rollout**, evidence-verified reasoning, and self-summarized visits, achieving strong search behavior from only 5K SFT trajectories and 2K RL prompts.
+
+</div>
+</div>
+
+
+<!---------------------------------------------------------------------------------------------->
+
+## Research Direction 2: Referring/Reasoning Video Object Segmentation (RVOS)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -33,10 +53,10 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`Arxiv 2025`  MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding \\
+`ECCV 2026`  MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding \\
 **Ming Dai**, Sen Yang, Boqiang Duan, Wankou Yang, Jingdong Wang
 
 [**Paper**](https://arxiv.org/abs/2510.09274)
@@ -52,7 +72,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 
 <!---------------------------------------------------------------------------------------------->
 
-## Research Direction 2: Visual Grounding (REC, RES, GREC, GRES)
+## Research Direction 3: Visual Grounding (REC, RES, GREC, GRES)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -154,7 +174,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 </div>
 
 
-## Research Direction 3: Cross-View Geo-Localization
+## Research Direction 4: Cross-View Geo-Localization
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/publications/Arxiv-DRL/main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
