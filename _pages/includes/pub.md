@@ -11,8 +11,8 @@
 [**Paper**](https://arxiv.org/abs/2606.31504)
  | [**Code** ![](https://img.shields.io/github/stars/AQ-MedAI/SimpleSearch-VL?style=social)](https://github.com/AQ-MedAI/SimpleSearch-VL)
 
-> **Highlights**: **SimpleSearch-VL** is an efficient, reliable, and practical framework for **multimodal agentic deep search**.
-> It improves the agent's search-and-verification process with **Factorized Adaptive Rollout**, evidence-verified reasoning, and self-summarized visits, achieving strong search behavior from only 5K SFT trajectories and 2K RL prompts.
+<!-- > **Highlights**: **SimpleSearch-VL** is an efficient, reliable, and practical framework for **multimodal agentic deep search**.
+> It improves the agent's search-and-verification process with **Factorized Adaptive Rollout**, evidence-verified reasoning, and self-summarized visits, achieving strong search behavior from only 5K SFT trajectories and 2K RL prompts. -->
 
 </div>
 </div>
@@ -31,8 +31,8 @@
 [**Paper**](https://github.com/Dmmm1997/VideoSEG-O3/blob/main/docs/videoseg-o3.pdf)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/VideoSEG-O3?style=social)](https://github.com/Dmmm1997/VideoSEG-O3)
 
-> **Highlights**: **VideoSEG-O3** is a **multi-turn RL** framework for RVOS, actively exploring temporal intervals and keyframes through temporal-spatial CoT instead of relying on fixed sampled frames.
-> It further introduces **SEG-aware logit calibration** and a decoupled thinking trace, aligning token-level policy optimization with pixel-level mask quality.
+<!-- > **Highlights**: **VideoSEG-O3** is a **multi-turn RL** framework for RVOS, actively exploring temporal intervals and keyframes through temporal-spatial CoT instead of relying on fixed sampled frames.
+> It further introduces **SEG-aware logit calibration** and a decoupled thinking trace, aligning token-level policy optimization with pixel-level mask quality. -->
 
 </div>
 </div>
@@ -47,7 +47,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf)
 
-> **Highlights**: **DeRVOS** decouples **trajectory generation** and **multimodal understanding**, with `TAIS` aligning and selecting instance trajectories for robust RVOS.
+<!-- > **Highlights**: **DeRVOS** decouples **trajectory generation** and **multimodal understanding**, with `TAIS` aligning and selecting instance trajectories for robust RVOS. -->
 
 </div>
 </div>
@@ -63,8 +63,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/MomentSeg?style=social)](https://github.com/Dmmm1997/MomentSeg)
  | [**Project**](https://dmmm1997.github.io/momentseg/)
 
-> **Highlights**: **MomentSeg** is a **MLLM** method, which unifies **temporal grounding** and **segmentation**, enabling key-frame extraction *without* relying on any external models.
-> In addition, we introduce a novel `[FIND]` token, which allows the model to perform temporal grounding *without* requiring any additional timestamp encoding.
+<!-- > **Highlights**: **MomentSeg** is a **MLLM** method, which unifies **temporal grounding** and **segmentation**, enabling key-frame extraction *without* relying on any external models.
+> In addition, we introduce a novel `[FIND]` token, which allows the model to perform temporal grounding *without* requiring any additional timestamp encoding. -->
 
 </div>
 </div>
@@ -84,7 +84,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/InstanceVG?style=social)](https://github.com/Dmmm1997/InstanceVG)
  | [**中文解读**](https://zhuanlan.zhihu.com/p/1951971188877275922)
 
-> **Highlights**: **InstanceVG** supports **instance-level** referring segmentation across general scenarios (no/single/multiple targets). It also provides consistent prediction across `point`, `box`, and `mask`.
+<!-- > **Highlights**: **InstanceVG** supports **instance-level** referring segmentation across general scenarios (no/single/multiple targets). It also provides consistent prediction across `point`, `box`, and `mask`. -->
 
 </div>
 </div>
@@ -102,7 +102,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/PropVG?style=social)](https://github.com/Dmmm1997/PropVG)
  | [**中文解读**](https://zhuanlan.zhihu.com/p/1948344988695007969)
 
-> **Highlights**: **PropVG** achieves **end-to-end two-stage** visual grounding, overcoming the traditional drawbacks of previous two-stage approaches that *relied on external detectors* and were often associated with *slow inference and limited performance*.
+<!-- > **Highlights**: **PropVG** achieves **end-to-end two-stage** visual grounding, overcoming the traditional drawbacks of previous two-stage approaches that *relied on external detectors* and were often associated with *slow inference and limited performance*. -->
 
 </div>
 </div>
@@ -119,7 +119,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 [**Paper**](https://arxiv.org/abs/2507.01738)
  | [**Code** ![img](https://img.shields.io/github/stars/Dmmm1997/DeRIS?style=social)](https://github.com/Dmmm1997/DeRIS)
 
-> **Highlights**: **DeRIS** analyzes a key bottleneck in visual grounding—**Cognition**. It decouples the VG task into *perception* and *cognition* components, and integrates them effectively through a loopback synergy mechanism.
+<!-- > **Highlights**: **DeRIS** analyzes a key bottleneck in visual grounding—**Cognition**. It decouples the VG task into *perception* and *cognition* components, and integrates them effectively through a loopback synergy mechanism. -->
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 
 [**Paper**](https://ieeexplore.ieee.org/document/11245514)
 
-> **Highlights**: **GC3VG** generalizes the **C3VG** architecture and incorporates `UCRM`, which implicitly captures region/instance features and explicitly aligns them via an IoU-based relational constraint. The `GHA` strategy ensures feature-space consistency and boosts the discriminative strength of multi-modal representations.
+<!-- > **Highlights**: **GC3VG** generalizes the **C3VG** architecture and incorporates `UCRM`, which implicitly captures region/instance features and explicitly aligns them via an IoU-based relational constraint. The `GHA` strategy ensures feature-space consistency and boosts the discriminative strength of multi-modal representations. -->
 
 </div>
 </div>
@@ -152,7 +152,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 [**Paper**](https://arxiv.org/pdf/2501.06710)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/C3VG?style=social)](https://github.com/Dmmm1997/C3VG)
 
-> **Highlights**: **C3VG** investigates the **consistency** prediction problem in REC and RIS, introducing a **coarse-to-fine** architecture that enforces consistency through both `implicit` and `explicit` constraints.
+<!-- > **Highlights**: **C3VG** investigates the **consistency** prediction problem in REC and RIS, introducing a **coarse-to-fine** architecture that enforces consistency through both `implicit` and `explicit` constraints. -->
 
 </div>
 </div>
@@ -168,7 +168,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/SimVG?style=social)](https://github.com/Dmmm1997/SimVG)
 | [**中文解读**](https://zhuanlan.zhihu.com/p/818287010)
 
-> **Highlights**: **SimVG** explores the importance of **multi-modal understanding** for the VG task, proposing a **simple** yet effective framework. It also adopts a **synchronized distillation** learning strategy between the teacher and student branches, enhancing the performance of the student branch.
+<!-- > **Highlights**: **SimVG** explores the importance of **multi-modal understanding** for the VG task, proposing a **simple** yet effective framework. It also adopts a **synchronized distillation** learning strategy between the teacher and student branches, enhancing the performance of the student branch. -->
 
 </div>
 </div>
@@ -185,7 +185,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 [**Paper**](https://arxiv.org/pdf/2208.06561)
 | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/DRL?style=social)](https://github.com/Dmmm1997/DRL)
 
-> **Highlights**: **DRL** adopts an **end-to-end** training and inference paradigm to address common issues in image-retrieval-based UAV self-localization, including *complex preprocessing*, *inherent localization errors*, and *slow inference*.
+<!-- > **Highlights**: **DRL** adopts an **end-to-end** training and inference paradigm to address common issues in image-retrieval-based UAV self-localization, including *complex preprocessing*, *inherent localization errors*, and *slow inference*. -->
 
 </div>
 </div>
@@ -201,7 +201,7 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/DenseUAV?style=social)](https://github.com/Dmmm1997/DenseUAV)
 | [**中文解读**](https://zhuanlan.zhihu.com/p/673051338)
 
-> **Highlights**: **DenseUAV** introduces a **real-world** sampled dataset for vision-based UAV self-localization and provides a comprehensive benchmark for the task.
+<!-- > **Highlights**: **DenseUAV** introduces a **real-world** sampled dataset for vision-based UAV self-localization and provides a comprehensive benchmark for the task. -->
 
 </div>
 </div>
@@ -215,8 +215,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 
 [**Paper**](https://arxiv.org/abs/2201.09206)
 | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/FSRA?style=social)](https://github.com/Dmmm1997/FSRA)
-
-> **Highlights**: **FSRA** is the *first* successful application of Transformer models to cross-view geo-localization. It introduces an attention-map-based region partitioning and alignment strategy that alleviates performance degradation caused by viewpoint shifts.
+<!-- 
+> **Highlights**: **FSRA** is the *first* successful application of Transformer models to cross-view geo-localization. It introduces an attention-map-based region partitioning and alignment strategy that alleviates performance degradation caused by viewpoint shifts. -->
 
 </div>
 </div>
