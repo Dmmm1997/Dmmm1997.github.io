@@ -108,6 +108,47 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.paper-title {
+    margin-bottom: .3em;
+    color: #252a2e;
+    font-size: 1.04em;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.paper-title p {
+    margin: 0;
+}
+
+.paper-venue {
+    display: inline-flex;
+    align-items: center;
+    margin-right: .45em;
+    padding: .08em .45em;
+    color: #fff;
+    background-color: #224b8d;
+    border-radius: 4px;
+    font-size: .78em;
+    font-weight: 700;
+    line-height: 1.45;
+    white-space: nowrap;
+}
+
+.paper-authors {
+    margin-bottom: .25em;
+    color: #666f77;
+    font-size: .95em;
+    line-height: 1.38;
+}
+
+.paper-authors p {
+    margin: 0;
+}
+
+.paper-authors strong {
+    color: #2f3337;
+}
+
 .paper-links-row {
     display: flex;
     align-items: center;
@@ -175,11 +216,13 @@ h1:before, .anchor:before {
     margin-bottom: 0;
 }
 
+.education-list,
 .internship-list {
     padding-left: 0;
     list-style: none;
 }
 
+.education-list li,
 .internship-list li {
     display: grid;
     grid-template-columns: 2.4rem minmax(0, 1fr);
@@ -188,6 +231,7 @@ h1:before, .anchor:before {
     margin-bottom: .5em;
 }
 
+.school-logo-frame,
 .internship-logo-frame {
     display: inline-flex;
     align-items: center;
@@ -196,6 +240,7 @@ h1:before, .anchor:before {
     height: 1.8rem;
 }
 
+.school-logo-frame img,
 .internship-logo-frame img {
     display: block;
     width: auto;

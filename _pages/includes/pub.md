@@ -5,8 +5,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/Arxiv-SimpleSearch-VL/simplesearch-vl.png' alt="SimpleSearch-VL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`arXiv 2026` SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search \\
-**Ming Dai**, Zhihong Lu, Jinjie Gu, Jiedong Zhuang, Yefeng Liu, Wankou Yang, Jian Wang, Chunhua Shen
+<div class="paper-title" markdown="1"><span class="paper-venue">arXiv 2026</span> SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Zhihong Lu, Jinjie Gu, Jiedong Zhuang, Yefeng Liu, Wankou Yang, Jian Wang, Chunhua Shen</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -35,8 +35,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`ICML 2026` VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation \\
-**Ming Dai**, Sen Yang, Boqiang Duan, Boyuan Tong, Jiedong Zhuang, Wankou Yang, Jingdong Wang
+<div class="paper-title" markdown="1"><span class="paper-venue">ICML 2026</span> VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Sen Yang, Boqiang Duan, Boyuan Tong, Jiedong Zhuang, Wankou Yang, Jingdong Wang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -62,8 +62,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/CVPR2026-DeRVOS/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`CVPR 2026` DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation \\
-Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">CVPR 2026</span> DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation</div>
+<div class="paper-authors" markdown="1">Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -86,8 +86,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`ECCV 2026`  MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding \\
-**Ming Dai**, Sen Yang, Boqiang Duan, Wankou Yang, Jingdong Wang
+<div class="paper-title" markdown="1"><span class="paper-venue">ECCV 2026</span> MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Sen Yang, Boqiang Duan, Wankou Yang, Jingdong Wang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -117,8 +117,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`TPAMI 2025`  Improving Generalized Visual Grounding with Instance-aware Joint Learning \\
-**Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Lingfeng Yang, Zhenhua Feng, Wankou Yang, Jingdong Wang
+<div class="paper-title" markdown="1"><span class="paper-venue">TPAMI 2025</span> Improving Generalized Visual Grounding with Instance-aware Joint Learning</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Lingfeng Yang, Zhenhua Feng, Wankou Yang, Jingdong Wang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -145,8 +145,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-PropVG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`ICCV 2025`  PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination \\
-**Ming Dai**, Wenxuan Cheng, Jiedong Zhuang, Jiang-jiang Liu, Hongshen Zhao, Zhenhua Feng, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">ICCV 2025</span> PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Wenxuan Cheng, Jiedong Zhuang, Jiang-jiang Liu, Hongshen Zhao, Zhenhua Feng, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -173,8 +173,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-DeRIS/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`ICCV 2025` DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy \\
-**Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Sen Yang, Wenxiao Cai, Yanpeng Sun, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">ICCV 2025</span> DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Wenxuan Cheng, Jiang-jiang Liu, Sen Yang, Wenxiao Cai, Yanpeng Sun, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -200,8 +200,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVT2025-GC3VG/gc3vg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`TCSVT 2025` GC3VG: Generalized Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints \\
-**Ming Dai**, Kai Chen, Wenxuan Cheng, Jiedong Zhuang, Zhenhua Feng, Pengfei Zhu, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">TCSVT 2025</span> GC3VG: Generalized Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Kai Chen, Wenxuan Cheng, Jiedong Zhuang, Zhenhua Feng, Pengfei Zhu, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -226,8 +226,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Selected as Oral)</div><img src='images/publications/AAAI2025-C3VG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`AAAI 2025` Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints \\
-**Ming Dai**, Jian Li, Jiedong Zhuang, Xian Zhang, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">AAAI 2025</span> Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Jian Li, Jiedong Zhuang, Xian Zhang, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -251,8 +251,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publications/NeurIPS2025-SimVG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`NeurIPS 2024` SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion \\
-**Ming Dai**, Lingfeng Yang, Yihao Xu, Zhenhua Feng, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">NeurIPS 2024</span> SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Lingfeng Yang, Yihao Xu, Zhenhua Feng, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -279,8 +279,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/publications/Arxiv-DRL/main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`PR 2026` Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization \\
-**Ming Dai**, Enhui Zheng, Jiahao Chen, Lei Qi, Zhenhua Feng, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">PR 2026</span> Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Enhui Zheng, Jiahao Chen, Lei Qi, Zhenhua Feng, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -304,8 +304,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/publications/TIP2023-DenseUAV/main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`TIP 2023` Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments \\
-**Ming Dai**, Enhui Zheng, Zhenhua Feng, Jiedong Zhuang, Wankou Yang
+<div class="paper-title" markdown="1"><span class="paper-venue">TIP 2023</span> Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Enhui Zheng, Zhenhua Feng, Jiedong Zhuang, Wankou Yang</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">
@@ -330,8 +330,8 @@ Wenxuan Cheng<sup>*</sup>, **Ming Dai**<sup>*</sup>, Huimin Lu, Wankou Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/publications/TCSVT2021-FSRA/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`TCSVT 2021` A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization \\
-**Ming Dai**, Jianhong Hu, Jiedong Zhuang, Enhui Zheng
+<div class="paper-title" markdown="1"><span class="paper-venue">TCSVT 2021</span> A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization</div>
+<div class="paper-authors" markdown="1">**Ming Dai**, Jianhong Hu, Jiedong Zhuang, Enhui Zheng</div>
 
 <div class="paper-links-row" markdown="1">
 <div class="paper-links" markdown="1">

@@ -1,8 +1,19 @@
 # 📖 Educations
 
-- *2023.09 – present* Ph.D. Student, School of Automation, Southeast University, Nanjing, China.
-- *2020.09 – 2023.06* Master’s Student, China Jiliang University, Hangzhou, China.
-- *2016.09 – 2020.06* Undergraduate Student, China Jiliang University, Hangzhou, China.
+<ul class="education-list">
+  <li>
+    <span class="school-logo-frame"><img src="images/logos/seu.png" alt="Southeast University logo"></span>
+    <span><em>2023.09 – present</em> Ph.D. Student, School of Automation, Southeast University, Nanjing, China.</span>
+  </li>
+  <li>
+    <span class="school-logo-frame"><img src="images/logos/cjlu.png" alt="China Jiliang University logo"></span>
+    <span><em>2020.09 – 2023.06</em> Master’s Student, China Jiliang University, Hangzhou, China.</span>
+  </li>
+  <li>
+    <span class="school-logo-frame"><img src="images/logos/cjlu.png" alt="China Jiliang University logo"></span>
+    <span><em>2016.09 – 2020.06</em> Undergraduate Student, China Jiliang University, Hangzhou, China.</span>
+  </li>
+</ul>
 
 # 💻 Internships
 
