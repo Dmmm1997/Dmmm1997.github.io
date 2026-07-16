@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.07*: 🎉 Our co-first-authored paper [ScanFocus](https://arxiv.org/abs/2607.13421) has been accepted to ECCV 2026. The [code](https://github.com/TenMinutes209/ScanFocus) is publicly available.
 - *2026.07*: 🚀 Our technical report [SimpleSearch-VL](https://arxiv.org/abs/2606.31504) is released, exploring efficient, reliable, and practical multimodal agentic search. [Project/Repo](https://github.com/AQ-MedAI/SimpleSearch-VL)
 - *2026.06*: 🎉 [MomentSeg](https://arxiv.org/abs/2510.09274) has been accepted to ECCV 2026. The [project page](https://dmmm1997.github.io/momentseg/) and [code](https://github.com/Dmmm1997/MomentSeg) are publicly available.
 - *2026.03*: 🎉 [VideoSEG-O3](https://github.com/Dmmm1997/VideoSEG-O3/blob/main/docs/videoseg-o3.pdf) has been accepted to ICML 2026. The [code](https://github.com/Dmmm1997/VideoSEG-O3) is publicly available.

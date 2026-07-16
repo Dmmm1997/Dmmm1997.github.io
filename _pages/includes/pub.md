@@ -32,6 +32,32 @@
 
 ## Research Direction 2: Referring/Reasoning Video Object Segmentation (RVOS)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/ECCV2026-ScanFocus/framework.png' alt="ScanFocus" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class="paper-title"><span class="paper-venue">ECCV 2026</span> ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding</div>
+<div class="paper-authors">Kai Chen<sup>*</sup>, <strong>Ming Dai</strong><sup>*</sup>, Wenxuan Cheng, Wankou Yang</div>
+
+<div class="paper-links-row" markdown="1">
+<div class="paper-links" markdown="1">
+[**Paper**](https://arxiv.org/abs/2607.13421)
+ | [**Code** ![](https://img.shields.io/github/stars/TenMinutes209/ScanFocus?style=social)](https://github.com/TenMinutes209/ScanFocus)
+</div>
+<details class="paper-highlights" markdown="1">
+<summary>Highlights</summary>
+<div class="paper-highlights-content" markdown="1">
+
+> **Highlights**: **ScanFocus** is a **coarse-to-fine** framework for spatio-temporal video grounding, decoupling global spatio-temporal scanning from local boundary refinement.
+> It introduces **Deformable Semantic-Motion Fusion** for coarse proposal generation and **SGTA** for dense boundary-focused temporal modeling, improving precise timestamp regression.
+
+</div>
+</details>
+</div>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
