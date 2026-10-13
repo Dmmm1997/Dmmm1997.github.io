@@ -7,11 +7,7 @@
   </li>
   <li>
     <span class="school-logo-frame"><img src="images/logos/cjlu.png" alt="China Jiliang University logo"></span>
-    <span><em>2020.09 – 2023.06</em> Master’s Student, China Jiliang University, Hangzhou, China.</span>
-  </li>
-  <li>
-    <span class="school-logo-frame"><img src="images/logos/cjlu.png" alt="China Jiliang University logo"></span>
-    <span><em>2016.09 – 2020.06</em> Undergraduate Student, China Jiliang University, Hangzhou, China.</span>
+    <span><em>2016.09 – 2023.06</em> Bachelor’s and Master’s Studies, China Jiliang University, Hangzhou, China.</span>
   </li>
 </ul>
 
@@ -41,7 +37,7 @@
 **Reviewers**
 
 - TIP, TNNLS, TCSVT, ISPRS, PR
-- NeurIPS2025, CVPR2025, ICCV2025, AAAI2026, ICLR2026, CVPR2026, ICML2026, ECCV2026
+- NeurIPS, CVPR, ICCV, AAAI, ICLR, ICML, ECCV
 
 **Leadership**
 

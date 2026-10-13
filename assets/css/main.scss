@@ -40,51 +40,67 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// Compact publication rows: bounded previews and a flexible reading column.
 .paper-box {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    align-items: start;
+    gap: 1em;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    padding: 1.15em 0;
 
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
+    .paper-box-image {
         width: 100%;
+        max-width: 280px;
+        min-width: 0;
         order: 2;
+
+        > div {
+            width: 100%;
+        }
+
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            display: block;
+            width: 100%;
+            height: auto;
+            max-height: 160px;
+            object-fit: contain;
+            object-position: left top;
+            box-shadow: none;
+        }
+
+        // Keep venue labels above, rather than covering the figure.
+        .badge {
+            position: static;
+            display: table;
+            max-width: 100%;
+            margin: 0 0 .4em;
+            padding: .12em .5em;
+            border-radius: 3px;
+            font-size: .72em;
+            line-height: 1.4;
         }
     }
-    
-    .paper-box-text{
-        max-width: 100%;
+
+    .paper-box-text {
+        min-width: 0;
         order: 1;
+        overflow-wrap: anywhere;
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+
+    @include breakpoint(768px) {
+        // Preserve CSS min() for the legacy Sass compiler used by Jekyll.
+        grid-template-columns: unquote("min(28%, 280px)") minmax(0, 1fr);
+        column-gap: 1.25em;
+
+        .paper-box-image {
             order: 1;
         }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+
+        .paper-box-text {
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;

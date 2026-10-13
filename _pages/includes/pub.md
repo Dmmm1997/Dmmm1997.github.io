@@ -1,4 +1,4 @@
-# 📝 Publications
+# 📝 Publications (First / Co-First Author)
 
 ## Research Direction 1: Multimodal Agentic Search
 
