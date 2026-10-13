@@ -2,7 +2,7 @@
 
 ## Research Direction 1: Multimodal Agentic Search
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/Arxiv-SimpleSearch-VL/simplesearch-vl.png' alt="SimpleSearch-VL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/Arxiv-SimpleSearch-VL/simplesearch-vl.png' alt="SimpleSearch-VL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">arXiv 2026</span> SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search</div>
@@ -32,7 +32,7 @@
 
 ## Research Direction 2: Referring/Reasoning Video Object Segmentation (RVOS)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/ECCV2026-ScanFocus/framework.png' alt="ScanFocus" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/ECCV2026-ScanFocus/framework.png' alt="ScanFocus" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">ECCV 2026</span> ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding</div>
@@ -58,7 +58,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/ICML2026-VideoSEG-O3/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">ICML 2026</span> VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation</div>
@@ -85,7 +85,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/CVPR2026-DeRVOS/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/CVPR2026-DeRVOS/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">CVPR 2026</span> DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation</div>
@@ -109,7 +109,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/Arxiv-MomentSeg/momentseg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">ECCV 2026</span> MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding</div>
@@ -140,7 +140,7 @@
 
 ## Research Direction 3: Visual Grounding (REC, RES, GREC, GRES)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/TPAMI-InstanceVG/instancevg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">TPAMI 2025</span> Improving Generalized Visual Grounding with Instance-aware Joint Learning</div>
@@ -168,7 +168,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-PropVG/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/ICCV2025-PropVG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">ICCV 2025</span> PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination</div>
@@ -196,7 +196,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-DeRIS/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/ICCV2025-DeRIS/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">ICCV 2025</span> DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy</div>
@@ -223,7 +223,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVT2025-GC3VG/gc3vg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/TCSVT2025-GC3VG/gc3vg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">TCSVT 2025</span> GC3VG: Generalized Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints</div>
@@ -249,7 +249,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Selected as Oral)</div><img src='images/publications/AAAI2025-C3VG/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/AAAI2025-C3VG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">AAAI 2025</span> Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints</div>
@@ -274,7 +274,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publications/NeurIPS2025-SimVG/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/NeurIPS2025-SimVG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">NeurIPS 2024</span> SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion</div>
@@ -302,7 +302,7 @@
 
 ## Research Direction 4: Cross-View Geo-Localization
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/publications/Arxiv-DRL/main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/Arxiv-DRL/main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">PR 2026</span> Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization</div>
@@ -327,7 +327,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/publications/TIP2023-DenseUAV/main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/TIP2023-DenseUAV/main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">TIP 2023</span> Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments</div>
@@ -353,7 +353,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/publications/TCSVT2021-FSRA/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/TCSVT2021-FSRA/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-title"><span class="paper-venue">TCSVT 2021</span> A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization</div>
