@@ -1,0 +1,19 @@
+_layouts/home.html
+  s_78781d530cd8c7::t_1247b199799825 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bd547da94773577f57eff26487504f8bb6f19e55",
+  "prompts": {},
+  "sessions": {
+    "s_78781d530cd8c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d1cb-4b01-7712-877c-4992100bac64",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "shanli.dm <shanli@U-91144LRQ-1954.local>"
+    }
+  }
+}
