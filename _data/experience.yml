@@ -1,0 +1,25 @@
+- company: Ant Group
+  date: Mar 2026 — Present
+  current: true
+  role: Plan A Research Intern
+  location: Hangzhou
+  logo: /images/logos/antgroup-mark.webp
+  description: Exploring multimodal agentic search and reinforcement learning for evidence-driven reasoning.
+- company: Baidu
+  date: Dec 2024 — Feb 2026
+  role: Multimodal Research Intern
+  location: Shanghai
+  logo: /images/logos/baidu-mark.webp
+  description: Research on multimodal large language models and referring video segmentation, including multi-turn data pipelines and temporal-spatial reasoning.
+- company: NIO
+  date: Nov 2022 — May 2023
+  role: Autonomous Driving Algorithm Intern
+  location: Beijing
+  logo: /images/logos/nio-official.svg
+  description: Algorithm research for autonomous driving.
+- company: ByteDance
+  date: Mar 2022 — Aug 2022
+  role: E-commerce Algorithm Intern
+  location: Hangzhou
+  logo: /images/logos/bytedance-mark.webp
+  description: Algorithm development for e-commerce applications.

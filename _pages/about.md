@@ -1,20 +1,12 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
+layout: home
+title: "Ming Dai · Multimodal Intelligence"
+excerpt: "Ming Dai, Ph.D. student at Southeast University. Research in multimodal agents, reinforcement learning, and visual understanding."
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
-{% include_relative includes/intro.md %}
-
-{% include_relative includes/news.md %}
-
-{% include_relative includes/pub.md %}
-
-{% include_relative includes/honers.md %}
-
-{% include_relative includes/others.md %}
+{% comment %}Homepage content is maintained in _layouts/home.html and _data/.{% endcomment %}

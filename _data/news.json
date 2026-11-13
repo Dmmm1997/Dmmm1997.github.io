@@ -1,0 +1,247 @@
+[
+  {
+    "date": "2026-07",
+    "kind": "paper",
+    "papers": [
+      "scanfocus",
+      "momentseg"
+    ],
+    "text": "**ScanFocus** and **MomentSeg** were accepted to **ECCV 2026** — ScanFocus combines global spatio-temporal scanning with local refinement; MomentSeg unifies temporal grounding and segmentation through moment-centric sampling.",
+    "links": [
+      {
+        "label": "ScanFocus",
+        "url": "https://arxiv.org/abs/2607.13421"
+      },
+      {
+        "label": "ScanFocus Code",
+        "url": "https://github.com/TenMinutes209/ScanFocus"
+      },
+      {
+        "label": "MomentSeg",
+        "url": "https://arxiv.org/abs/2510.09274"
+      },
+      {
+        "label": "MomentSeg Code",
+        "url": "https://github.com/Dmmm1997/MomentSeg"
+      },
+      {
+        "label": "MomentSeg Project",
+        "url": "https://dmmm1997.github.io/momentseg/"
+      }
+    ],
+    "venue": "ECCV 2026"
+  },
+  {
+    "date": "2026-07",
+    "kind": "paper",
+    "papers": [
+      "simplesearch-vl"
+    ],
+    "text": "**SimpleSearch-VL** technical report released — a multimodal agentic deep-search framework that combines adaptive rollouts, evidence verification, and self-summarized visits for efficient search and reasoning.",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2606.31504"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AQ-MedAI/SimpleSearch-VL"
+      }
+    ]
+  },
+  {
+    "date": "2026-03",
+    "kind": "paper",
+    "papers": [
+      "videoseg-o3"
+    ],
+    "text": "**VideoSEG-O3** was accepted to **ICML 2026** — a multi-turn reinforcement learning framework that actively explores temporal intervals and keyframes for reasoning video object segmentation.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://github.com/Dmmm1997/VideoSEG-O3/blob/main/docs/videoseg-o3.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/VideoSEG-O3"
+      }
+    ],
+    "venue": "ICML 2026"
+  },
+  {
+    "date": "2026-02",
+    "kind": "paper",
+    "papers": [
+      "dervos"
+    ],
+    "text": "**DeRVOS** was accepted to **CVPR 2026** — decoupling consistent trajectory generation from multimodal understanding for referring video object segmentation.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf"
+      }
+    ],
+    "venue": "CVPR 2026"
+  },
+  {
+    "date": "2026-01",
+    "kind": "paper",
+    "papers": [
+      "drl"
+    ],
+    "text": "**DRL** was accepted to **Pattern Recognition** — an end-to-end UAV self-localization method using efficient heterogeneous spatial feature interaction.",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/pdf/2208.06561"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/DRL"
+      }
+    ],
+    "venue": "Pattern Recognition 2026"
+  },
+  {
+    "date": "2025-11",
+    "kind": "paper",
+    "papers": [
+      "gc3vg"
+    ],
+    "text": "**GC3VG** was accepted to **TCSVT 2025** — extending C3VG to generalized multi-task visual grounding with region alignment and coarse-to-fine consistency constraints.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ieeexplore.ieee.org/document/11245514"
+      },
+      {
+        "label": "C3VG",
+        "url": "https://arxiv.org/pdf/2501.06710"
+      }
+    ],
+    "venue": "TCSVT 2025"
+  },
+  {
+    "date": "2025-09",
+    "kind": "paper",
+    "papers": [
+      "instancevg"
+    ],
+    "text": "**InstanceVG** was accepted to **TPAMI 2025** — instance-aware joint learning for generalized visual grounding, with consistent point, box, and mask predictions across no-target, single-target, and multi-target scenarios.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ieeexplore.ieee.org/document/11153716"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/InstanceVG"
+      }
+    ],
+    "venue": "TPAMI 2025"
+  },
+  {
+    "date": "2025-07",
+    "kind": "paper",
+    "papers": [
+      "propvg",
+      "deris"
+    ],
+    "text": "**PropVG** and **DeRIS** were accepted to **ICCV 2025** — PropVG introduces end-to-end proposal-driven grounding with multi-granularity discrimination; DeRIS decouples perception and cognition through loopback synergy for referring image segmentation.",
+    "links": [
+      {
+        "label": "PropVG",
+        "url": "https://arxiv.org/abs/2509.04833"
+      },
+      {
+        "label": "PropVG Code",
+        "url": "https://github.com/Dmmm1997/PropVG"
+      },
+      {
+        "label": "DeRIS",
+        "url": "https://arxiv.org/abs/2507.01738"
+      },
+      {
+        "label": "DeRIS Code",
+        "url": "https://github.com/Dmmm1997/DeRIS"
+      }
+    ],
+    "venue": "ICCV 2025"
+  },
+  {
+    "date": "2024-12",
+    "kind": "paper",
+    "papers": [
+      "c3vg"
+    ],
+    "text": "**C3VG** was accepted to **AAAI 2025** as an **oral presentation** — joint referring localization and segmentation with coarse-to-fine consistency constraints.",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/pdf/2501.06710"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/C3VG"
+      }
+    ],
+    "venue": "AAAI 2025"
+  },
+  {
+    "date": "2024-09",
+    "kind": "paper",
+    "papers": [
+      "simvg"
+    ],
+    "text": "**SimVG** was accepted to **NeurIPS 2024** — a simple visual grounding framework with decoupled multimodal fusion and synchronized teacher–student distillation.",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2409.17531"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/SimVG"
+      }
+    ],
+    "venue": "NeurIPS 2024"
+  },
+  {
+    "date": "2023-12",
+    "kind": "paper",
+    "papers": [
+      "denseuav"
+    ],
+    "text": "**DenseUAV** was accepted to **TIP 2023** — a real-world dataset and benchmark for vision-based UAV self-positioning in low-altitude urban environments.",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2201.09201"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/DenseUAV"
+      }
+    ],
+    "venue": "TIP 2023"
+  },
+  {
+    "date": "2021-09",
+    "kind": "paper",
+    "papers": [
+      "fsra"
+    ],
+    "text": "**FSRA** was accepted to **TCSVT 2021** — Transformer-based feature segmentation and region alignment for cross-view UAV geo-localization.",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2201.09206"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/FSRA"
+      }
+    ],
+    "venue": "TCSVT 2021"
+  }
+]

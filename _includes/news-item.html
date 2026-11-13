@@ -1,0 +1,12 @@
+<li class="news-item">
+  <div class="news-meta">
+    <time datetime="{{ include.item.date }}">{{ include.item.date | append: '-01' | date: '%b %Y' }}</time>
+    <span class="news-badge" data-kind="{{ include.item.kind | escape }}">{{ include.item.kind | escape }}</span>
+  </div>
+  <div class="news-text">{{ include.item.text | markdownify }}</div>
+  <div class="news-links paper-links">
+    {% for link in include.item.links %}
+      <a href="{{ link.url | escape }}">{{ link.label | escape }}</a>
+    {% endfor %}
+  </div>
+</li>

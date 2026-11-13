@@ -1,0 +1,64 @@
+[
+  {
+    "year": 2026,
+    "title": "President’s Scholarship, Southeast University",
+    "description": "15 recipients university-wide"
+  },
+  {
+    "year": 2025,
+    "title": "National Scholarship for Doctoral Students",
+    "description": "Also recognized for Academic Innovation at Southeast University",
+    "certificate": "doctoral-national-scholarship-2025",
+    "alt": "2025 National Scholarship for Doctoral Students certificate awarded to Ming Dai"
+  },
+  {
+    "year": 2023,
+    "title": "National First Prize · Global Campus AI Algorithm Elite Competition",
+    "description": "Zero-shot referring expression understanding",
+    "certificate": "global-ai-first-prize-2023",
+    "alt": "2023 Global Campus AI Algorithm Elite Competition national finals first-prize certificate",
+    "distinction": "Top 1.4%"
+  },
+  {
+    "year": 2023,
+    "title": "National First Prize · Air and Space Cup",
+    "description": "Team leader · Multispectral object detection",
+    "certificate": "air-space-cup-first-prize-2023",
+    "alt": "2023 Air and Space Cup Innovation Competition first-prize certificate",
+    "distinction": "1st in track · Top 1.76%"
+  },
+  {
+    "year": 2023,
+    "title": "Zhejiang Bronze Award · Challenge Cup",
+    "description": "“Black Technology” track",
+    "certificate": "challenge-cup-bronze-2023",
+    "alt": "2023 Challenge Cup Zhejiang Bronze Award certificate"
+  },
+  {
+    "year": 2022,
+    "title": "National Scholarship for Graduate Students",
+    "description": ""
+  },
+  {
+    "year": 2022,
+    "title": "National Second Prize · Graduate Smart City Competition",
+    "description": "Track runner-up · Team leader · Object detection"
+  },
+  {
+    "year": 2022,
+    "title": "Regional Third Prize · China Graduate Electronic Design Contest",
+    "description": "East China division · Team award",
+    "certificate": "electronic-design-third-prize-2022",
+    "alt": "2022 China Graduate Electronic Design Contest East China regional third-prize certificate"
+  },
+  {
+    "year": 2018,
+    "title": "Zhejiang Provincial Robotics Competition",
+    "description": "Second Prize in Shopping and Tourism tracks · Third Prize in Transportation track"
+  },
+  {
+    "year": 2017,
+    "title": "National Second Prize · Siemens Cup",
+    "description": "East China First Prize · Team leader"
+  }
+]

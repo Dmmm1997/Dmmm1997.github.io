@@ -1,0 +1,7 @@
+        <article class="publication" data-category="{{ paper.category }}" data-selected="{{ paper.selected }}">
+          <h4><a href="{{ paper.links[0].url }}">{{ paper.title }}</a></h4>
+          <div class="publication-meta"><span class="pub-venue">{{ paper.venue }}</span><span class="venue-badge">{{ paper.name }}</span>{% include publication-badges.html %}{% if paper.name == 'C3VG' %}<span class="oral-badge">Oral</span>{% endif %}</div>
+          <p class="authors">{{ paper.authors }}</p>
+          <div class="paper-links">{% for link in paper.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}</div>
+          <details class="paper-details"><summary>tl;dr <span aria-hidden="true">+</span></summary><div>{{ paper.highlights | markdownify }}</div></details>
+        </article>

@@ -1,0 +1,381 @@
+[
+  {
+    "id": "simplesearch-vl",
+    "name": "SimpleSearch-VL",
+    "title": "SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search",
+    "venue": "Technical Report · 2026",
+    "authors": "<strong>Ming Dai</strong>, Zhihong Lu, Jinjie Gu, Jiedong Zhuang, Yefeng Liu, Wankou Yang, Jian Wang, Chunhua Shen",
+    "image": "images/publications/Arxiv-SimpleSearch-VL/simplesearch-vl.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2606.31504"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AQ-MedAI/SimpleSearch-VL"
+      }
+    ],
+    "summary": "Learning to search, reason, and verify across visual and textual evidence with efficient agentic reinforcement learning.",
+    "highlights": "**SimpleSearch-VL** is an efficient, reliable, and practical framework for **multimodal agentic deep search**. It improves the agent's search-and-verification process with **Factorized Adaptive Rollout**, evidence-verified reasoning, and self-summarized visits, achieving strong search behavior from only 5K SFT trajectories and 2K RL prompts.",
+    "category": "agents",
+    "selected": true,
+    "featured": true,
+    "preview_image": "images/publications/previews/simplesearch-vl.webp",
+    "type": "report",
+    "figure_alt": "SimpleSearch-VL: visual evidence verification and search workflow"
+  },
+  {
+    "id": "scanfocus",
+    "name": "ScanFocus",
+    "title": "ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding",
+    "venue": "ECCV 2026",
+    "authors": "Kai Chen<sup>*</sup>, <strong>Ming Dai</strong><sup>*</sup>, Wenxuan Cheng, Wankou Yang",
+    "image": "images/publications/ECCV2026-ScanFocus/framework.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2607.13421"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/TenMinutes209/ScanFocus"
+      }
+    ],
+    "summary": "From a global scan to local refinement: precise spatio-temporal grounding through semantic-motion fusion.",
+    "highlights": "**ScanFocus** is a **coarse-to-fine** framework for spatio-temporal video grounding, decoupling global spatio-temporal scanning from local boundary refinement. It introduces **Deformable Semantic-Motion Fusion** for coarse proposal generation and **SGTA** for dense boundary-focused temporal modeling, improving precise timestamp regression.",
+    "category": "video",
+    "selected": false,
+    "featured": false,
+    "type": "conference",
+    "ccf": "B"
+  },
+  {
+    "id": "videoseg-o3",
+    "name": "VideoSEG-O3",
+    "title": "VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation",
+    "venue": "ICML 2026",
+    "authors": "<strong>Ming Dai</strong>, Sen Yang, Boqiang Duan, Boyuan Tong, Jiedong Zhuang, Wankou Yang, Jingdong Wang",
+    "image": "images/publications/ICML2026-VideoSEG-O3/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://github.com/Dmmm1997/VideoSEG-O3/blob/main/docs/videoseg-o3.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/VideoSEG-O3"
+      }
+    ],
+    "summary": "An agent that actively explores when and where to look, aligning multi-turn reasoning with pixel-level segmentation.",
+    "highlights": "**VideoSEG-O3** is a **multi-turn RL** framework for RVOS, actively exploring temporal intervals and keyframes through temporal-spatial CoT instead of relying on fixed sampled frames. It further introduces **SEG-aware logit calibration** and a decoupled thinking trace, aligning token-level policy optimization with pixel-level mask quality.",
+    "category": "video",
+    "selected": true,
+    "featured": true,
+    "preview_image": "images/publications/previews/videoseg-o3.webp",
+    "type": "conference",
+    "figure_alt": "VideoSEG-O3: iterative temporal-spatial exploration and segmentation",
+    "ccf": "A"
+  },
+  {
+    "id": "dervos",
+    "name": "DeRVOS",
+    "title": "DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation",
+    "venue": "CVPR 2026",
+    "authors": "Wenxuan Cheng<sup>*</sup>, <strong>Ming Dai</strong><sup>*</sup>, Huimin Lu, Wankou Yang",
+    "image": "images/publications/CVPR2026-DeRVOS/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf"
+      }
+    ],
+    "summary": "Decoupling consistent trajectory generation from multimodal understanding for robust referring video segmentation.",
+    "highlights": "**DeRVOS** decouples **trajectory generation** and **multimodal understanding**, with `TAIS` aligning and selecting instance trajectories for robust RVOS.",
+    "category": "video",
+    "selected": false,
+    "featured": false,
+    "type": "conference",
+    "ccf": "A"
+  },
+  {
+    "id": "momentseg",
+    "name": "MomentSeg",
+    "title": "MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding",
+    "venue": "ECCV 2026",
+    "authors": "<strong>Ming Dai</strong>, Sen Yang, Boqiang Duan, Wankou Yang, Jingdong Wang",
+    "image": "images/publications/Arxiv-MomentSeg/momentseg.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2510.09274"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/MomentSeg"
+      },
+      {
+        "label": "Project",
+        "url": "https://dmmm1997.github.io/momentseg/"
+      }
+    ],
+    "summary": "Unifying temporal grounding and pixel understanding to find the moments that matter in a video.",
+    "highlights": "**MomentSeg** is a **MLLM** method, which unifies **temporal grounding** and **segmentation**, enabling key-frame extraction *without* relying on any external models. In addition, we introduce a novel `[FIND]` token, which allows the model to perform temporal grounding *without* requiring any additional timestamp encoding.",
+    "category": "video",
+    "selected": true,
+    "featured": true,
+    "preview_image": "images/publications/previews/momentseg-paper.webp",
+    "type": "conference",
+    "figure_alt": "MomentSeg: moment-centric sampling, video segmentation, and benchmark performance",
+    "featured_image": "momentseg/figures/teaser.jpg",
+    "ccf": "B"
+  },
+  {
+    "id": "instancevg",
+    "name": "InstanceVG",
+    "title": "Improving Generalized Visual Grounding with Instance-aware Joint Learning",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) · 2025",
+    "authors": "<strong>Ming Dai</strong>, Wenxuan Cheng, Jiang-jiang Liu, Lingfeng Yang, Zhenhua Feng, Wankou Yang, Jingdong Wang",
+    "image": "images/publications/TPAMI-InstanceVG/instancevg.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ieeexplore.ieee.org/document/11153716"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/InstanceVG"
+      },
+      {
+        "label": "中文解读",
+        "url": "https://zhuanlan.zhihu.com/p/1951971188877275922"
+      }
+    ],
+    "summary": "Instance-aware learning for generalized grounding, with consistent point, box, and mask predictions.",
+    "highlights": "**InstanceVG** supports **instance-level** referring segmentation across general scenarios (no/single/multiple targets). It also provides consistent prediction across `point`, `box`, and `mask`.",
+    "category": "grounding",
+    "selected": true,
+    "featured": true,
+    "preview_image": "images/publications/previews/instancevg-paper.webp",
+    "type": "journal",
+    "figure_alt": "InstanceVG network architecture: point-guided instance queries and joint box-mask prediction",
+    "featured_image": "images/publications/TPAMI-InstanceVG/instancevg.jpg",
+    "ccf": "A"
+  },
+  {
+    "id": "propvg",
+    "name": "PropVG",
+    "title": "PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination",
+    "venue": "ICCV 2025",
+    "authors": "<strong>Ming Dai</strong>, Wenxuan Cheng, Jiedong Zhuang, Jiang-jiang Liu, Hongshen Zhao, Zhenhua Feng, Wankou Yang",
+    "image": "images/publications/ICCV2025-PropVG/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2509.04833"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/PropVG"
+      },
+      {
+        "label": "中文解读",
+        "url": "https://zhuanlan.zhihu.com/p/1948344988695007969"
+      }
+    ],
+    "summary": "End-to-end proposal-driven grounding with multi-granularity discrimination.",
+    "highlights": "**PropVG** achieves **end-to-end two-stage** visual grounding, overcoming the traditional drawbacks of previous two-stage approaches that *relied on external detectors* and were often associated with *slow inference and limited performance*.",
+    "category": "grounding",
+    "selected": false,
+    "featured": false,
+    "type": "conference",
+    "ccf": "A"
+  },
+  {
+    "id": "deris",
+    "name": "DeRIS",
+    "title": "DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy",
+    "venue": "ICCV 2025",
+    "authors": "<strong>Ming Dai</strong>, Wenxuan Cheng, Jiang-jiang Liu, Sen Yang, Wenxiao Cai, Yanpeng Sun, Wankou Yang",
+    "image": "images/publications/ICCV2025-DeRIS/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2507.01738"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/DeRIS"
+      }
+    ],
+    "summary": "Connecting visual perception and language cognition through loopback synergy.",
+    "highlights": "**DeRIS** analyzes a key bottleneck in visual grounding—**Cognition**. It decouples the VG task into *perception* and *cognition* components, and integrates them effectively through a loopback synergy mechanism.",
+    "category": "grounding",
+    "selected": true,
+    "featured": false,
+    "type": "conference",
+    "ccf": "A"
+  },
+  {
+    "id": "gc3vg",
+    "name": "GC3VG",
+    "title": "GC3VG: Generalized Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints",
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) · 2025",
+    "authors": "<strong>Ming Dai</strong>, Kai Chen, Wenxuan Cheng, Jiedong Zhuang, Zhenhua Feng, Pengfei Zhu, Wankou Yang",
+    "image": "images/publications/TCSVT2025-GC3VG/gc3vg.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ieeexplore.ieee.org/document/11245514"
+      }
+    ],
+    "summary": "Generalized multi-task grounding with region alignment and coarse-to-fine consistency.",
+    "highlights": "**GC3VG** generalizes the **C3VG** architecture and incorporates `UCRM`, which implicitly captures region/instance features and explicitly aligns them via an IoU-based relational constraint. The `GHA` strategy ensures feature-space consistency and boosts the discriminative strength of multi-modal representations.",
+    "category": "grounding",
+    "selected": false,
+    "featured": false,
+    "type": "journal",
+    "ccf": "B"
+  },
+  {
+    "id": "c3vg",
+    "name": "C3VG",
+    "title": "Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints",
+    "venue": "AAAI 2025",
+    "authors": "<strong>Ming Dai</strong>, Jian Li, Jiedong Zhuang, Xian Zhang, Wankou Yang",
+    "image": "images/publications/AAAI2025-C3VG/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2501.06710"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/C3VG"
+      }
+    ],
+    "summary": "Bringing referring localization and segmentation together through consistent multi-task learning.",
+    "highlights": "**C3VG** investigates the **consistency** prediction problem in REC and RIS, introducing a **coarse-to-fine** architecture that enforces consistency through both `implicit` and `explicit` constraints.",
+    "category": "grounding",
+    "selected": false,
+    "featured": false,
+    "type": "conference",
+    "ccf": "A"
+  },
+  {
+    "id": "simvg",
+    "name": "SimVG",
+    "title": "SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion",
+    "venue": "NeurIPS 2024",
+    "authors": "<strong>Ming Dai</strong>, Lingfeng Yang, Yihao Xu, Zhenhua Feng, Wankou Yang",
+    "image": "images/publications/NeurIPS2025-SimVG/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2409.17531"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/SimVG"
+      },
+      {
+        "label": "中文解读",
+        "url": "https://zhuanlan.zhihu.com/p/818287010"
+      }
+    ],
+    "summary": "A simple approach to visual grounding through decoupled multimodal fusion and synchronized distillation.",
+    "highlights": "**SimVG** explores the importance of **multi-modal understanding** for the VG task, proposing a **simple** yet effective framework. It also adopts a **synchronized distillation** learning strategy between the teacher and student branches, enhancing the performance of the student branch.",
+    "category": "grounding",
+    "selected": true,
+    "featured": true,
+    "type": "conference",
+    "figure_alt": "SimVG network architecture: decoupled multimodal fusion and dynamic weight-balance distillation",
+    "featured_image": "images/publications/NeurIPS2025-SimVG/framework.jpg",
+    "preview_image": "images/publications/previews/simvg-paper.webp",
+    "ccf": "A"
+  },
+  {
+    "id": "drl",
+    "name": "DRL",
+    "title": "Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization",
+    "venue": "Pattern Recognition (PR) · 2026",
+    "authors": "<strong>Ming Dai</strong>, Enhui Zheng, Jiahao Chen, Lei Qi, Zhenhua Feng, Wankou Yang",
+    "image": "images/publications/Arxiv-DRL/main.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2208.06561"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/DRL"
+      }
+    ],
+    "summary": "End-to-end UAV self-localization through efficient heterogeneous spatial feature interaction.",
+    "highlights": "**DRL** adopts an **end-to-end** training and inference paradigm to address common issues in image-retrieval-based UAV self-localization, including *complex preprocessing*, *inherent localization errors*, and *slow inference*.",
+    "category": "localization",
+    "selected": false,
+    "featured": false,
+    "type": "journal",
+    "ccf": "B"
+  },
+  {
+    "id": "denseuav",
+    "name": "DenseUAV",
+    "title": "Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments",
+    "venue": "IEEE Transactions on Image Processing (TIP) · 2023",
+    "authors": "<strong>Ming Dai</strong>, Enhui Zheng, Zhenhua Feng, Jiedong Zhuang, Wankou Yang",
+    "image": "images/publications/TIP2023-DenseUAV/main.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2201.09201"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/DenseUAV"
+      },
+      {
+        "label": "中文解读",
+        "url": "https://zhuanlan.zhihu.com/p/673051338"
+      }
+    ],
+    "summary": "A real-world dataset and benchmark for vision-based UAV localization in low-altitude urban environments.",
+    "highlights": "**DenseUAV** introduces a **real-world** sampled dataset for vision-based UAV self-localization and provides a comprehensive benchmark for the task.",
+    "category": "localization",
+    "selected": false,
+    "featured": true,
+    "type": "journal",
+    "figure_alt": "DenseUAV: drone and satellite views at different altitudes and across years",
+    "featured_image": "images/publications/previews/denseuav-results.webp",
+    "preview_image": "images/publications/previews/denseuav-results.webp",
+    "ccf": "A",
+    "highly_cited": true
+  },
+  {
+    "id": "fsra",
+    "name": "FSRA",
+    "title": "A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization",
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) · 2021",
+    "authors": "<strong>Ming Dai</strong>, Jianhong Hu, Jiedong Zhuang, Enhui Zheng",
+    "image": "images/publications/TCSVT2021-FSRA/framework.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2201.09206"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Dmmm1997/FSRA"
+      }
+    ],
+    "summary": "Transformer-based feature segmentation and region alignment for cross-view geo-localization.",
+    "highlights": "**FSRA** is the *first* successful application of Transformer models to cross-view geo-localization. It introduces an attention-map-based region partitioning and alignment strategy that alleviates performance degradation caused by viewpoint shifts.",
+    "category": "localization",
+    "selected": false,
+    "featured": false,
+    "type": "journal",
+    "ccf": "B",
+    "highly_cited": true
+  }
+]
